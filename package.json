@@ -1,0 +1,16 @@
+{
+  "name": "postman-jenkins",
+  "version": "1.0.0",
+  "description": "Project for storing postman scripts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "testrestapi": "newman test execution"
+  },
+  "author": "Mohit Saini",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^4.3.1"
+  }
+}
