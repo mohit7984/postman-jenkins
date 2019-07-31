@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "testrestapi": "newman test execution"
+    "testrestapi": "newman run test/testCollection.postman_collection.json"
   },
   "author": "Mohit Saini",
   "license": "ISC",
