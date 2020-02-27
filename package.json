@@ -5,6 +5,7 @@
   "directories": {
     "test": "tests"
   },
+  //test
   "scripts": {
     "testrestapi": "newman run tests/testCollection.postman_collection.json --report-junit-export newman.xml"
   },
